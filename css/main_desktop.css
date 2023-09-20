@@ -1,0 +1,7 @@
+.home-container--title {
+    top: calc(50% - 320px);
+}
+
+.home-container--button {
+    top: calc(50% - 260px);   
+}

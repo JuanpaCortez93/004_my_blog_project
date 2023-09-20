@@ -1,0 +1,39 @@
+.header-icons-container div {   
+    justify-self: end;
+    margin-right: 50px;    
+}
+
+.logo-container {
+    place-content: start;
+    margin-left: 50px;
+}
+
+.nav-container {
+    place-content: end;
+    margin-right: 75px;
+}
+
+.home-container--title {
+    font-size: 4.2rem;
+    line-height: 4rem;    
+}
+
+.last-blog--main {
+    grid-template-columns: 2fr 1fr;
+}
+
+.last-blog--main h2 {
+    font-size: 2.2rem;
+    line-height: 2rem;
+}
+
+.last-blog--info p {
+    font-size: 1.2rem;
+    font-weight: 500;
+    line-height: 2rem;
+}
+
+.last-blog--button {
+    font-size: 1.8rem;
+    font-weight: 300;
+}
